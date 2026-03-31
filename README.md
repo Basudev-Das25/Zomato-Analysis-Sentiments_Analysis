@@ -153,17 +153,12 @@ Multiple models were trained and evaluated:
 
 zomato-project/
 │
-├── restaurants.csv
-├── reviews.csv
-│
-├── zomato_analysis.ipynb
-│
 ├── models/
-│   ├── best_sentiment_model.pkl
-│   ├── tfidf_vectorizer.pkl
+│   └── (saved model files such as best_sentiment_model.pkl, tfidf_vectorizer.pkl)
 │
-│
-└── README.md
+├── .gitignore
+├── README.md
+├── Zomato_Project.ipynb
 
 ---
 
